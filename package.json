@@ -1,0 +1,23 @@
+{
+  "name": "web-scaffold",
+  "version": "1.0.0",
+  "description": "A general scaffold for my personal web development",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scaffold",
+    "typescript",
+    "node",
+    "react"
+  ],
+  "author": "ChlorineC",
+  "license": "MIT",
+  "packageManager": "pnpm@8.3.1",
+  "devDependencies": {
+    "@types/node": "^18.16.1",
+    "typescript": "^5.0.4"
+  }
+}
